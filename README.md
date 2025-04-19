@@ -45,3 +45,5 @@ A tribute page dedicated to Steve Jobs, highlighting his life and achievements. 
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/OASIS-Infobyte-Project.git
+
+
